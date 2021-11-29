@@ -1,0 +1,6 @@
+p{
+    direction: ltr;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 0.5px 1px 0 red, 1px 1.5px 0 blue, 1.5px 2px 0 darkmagenta;;
+}

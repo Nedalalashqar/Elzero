@@ -1,0 +1,27 @@
+div{
+    background-color: silver;
+    margin-right: 20px;
+    position: initial;
+    outline: 10px solid black;
+    display: inline;
+}
+
+.div1{
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+}
+
+
+.div2{
+    border-width: 5px;
+    border-style: solid;
+    border-color:blue green;
+}
+
+
+.div3{
+    border-width: 5px;
+    border-style: dashed;
+    border-color:red green blue yellow;
+}
